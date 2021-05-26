@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MamonovWPF", "MamonovWPF\MamonovWPF.csproj", "{40B31DAE-0395-4B11-8660-62F55C6F462C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40B31DAE-0395-4B11-8660-62F55C6F462C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40B31DAE-0395-4B11-8660-62F55C6F462C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40B31DAE-0395-4B11-8660-62F55C6F462C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40B31DAE-0395-4B11-8660-62F55C6F462C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E16A5E4-5132-4212-B8EF-2F3A7DDD4A8D}
+	EndGlobalSection
+EndGlobal
